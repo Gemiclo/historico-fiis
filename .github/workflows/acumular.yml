@@ -1,1 +1,35 @@
+name: Acumular Histórico FIIs
 
+on:
+  schedule:
+    # 00:30 UTC = logo após o radar-dividendos rodar às 23:00 UTC
+    - cron: '30 0 * * 1-5'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  acumular:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Acumular histórico
+        run: python acumular.py
+
+      - name: Commit e push se houver mudanças
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add historico_fiis_acumulado.json
+          git diff --staged --quiet || git commit -m "Atualizando histórico FIIs acumulado"
+          git push
