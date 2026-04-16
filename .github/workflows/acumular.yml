@@ -3,7 +3,7 @@ name: Acumular Histórico FIIs
 on:
   schedule:
     # 00:30 UTC = logo após o radar-dividendos rodar às 23:00 UTC
-    - cron: '30 0 * * 1-5'
+    - cron: '30 0 * * 2,4'
   workflow_dispatch:
 
 permissions:
