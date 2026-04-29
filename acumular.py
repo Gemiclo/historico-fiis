@@ -65,7 +65,7 @@ def main():
 
     # Salva
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        json.dump(existing, f, ensure_ascii=False, separators=(",", ":"))
+        json.dump(existing, f, ensure_ascii=False, indent=4)
 
     print(f"Adicionados: {added} | Total: {len(existing)}")
 
