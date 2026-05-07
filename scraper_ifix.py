@@ -1,24 +1,23 @@
-import yfinance as yf
+import requests
+from bs4 import BeautifulSoup
 import json
 from datetime import datetime
 import pytz
 
 def atualizar_ifix():
+    # URL direta do Google Finance para o IFIX
+    url = 'https://www.google.com/finance/quote/IFIX:INDEXBVMF'
+    
     try:
-        print("Buscando cotação do IFIX via Yahoo Finance...")
-        # O ticker do IFIX no Yahoo Finance é ^IFIX
-        ifix = yf.Ticker("^IFIX")
+        print("Buscando cotação do IFIX via Google Finance...")
+        response = requests.get(url)
+        soup = BeautifulSoup(response.text, 'html.parser')
         
-        # Pega o último preço de fechamento/atual
-        dados_historicos = ifix.history(period="1d")
+        # A classe 'YMlKec fxKbKc' é o padrão fixo do Google Finance para o preço principal
+        valor_str = soup.find(class_='YMlKec fxKbKc').text
         
-        if dados_historicos.empty:
-            raise ValueError("Não foi possível obter os dados do Yahoo Finance. O retorno veio vazio.")
-            
-        valor_float = float(dados_historicos['Close'].iloc[-1])
-        
-        # Arredonda para 2 casas decimais (padrão de moeda)
-        valor_float = round(valor_float, 2)
+        # O Google Finance retorna algo como "3.913,32"
+        valor_float = float(valor_str.replace('.', '').replace(',', '.'))
         
         tz = pytz.timezone('America/Sao_Paulo')
         agora = datetime.now(tz).strftime('%Y-%m-%d %H:%M:%S')
