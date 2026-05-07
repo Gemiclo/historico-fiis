@@ -17,7 +17,9 @@ def atualizar_ifix():
         valor_str = soup.find(class_='YMlKec fxKbKc').text
         
         # O Google Finance retorna algo como "3.913,32"
-        valor_float = float(valor_str.replace('.', '').replace(',', '.'))
+        # O Google Finance em inglês retorna algo como "3,913.08"
+        # Então removemos a vírgula do milhar e convertemos para float
+        valor_float = float(valor_str.replace(',', ''))
         
         tz = pytz.timezone('America/Sao_Paulo')
         agora = datetime.now(tz).strftime('%Y-%m-%d %H:%M:%S')
