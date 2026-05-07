@@ -30,10 +30,10 @@ jobs:
       - name: Rodar Script do IFIX
         run: python scraper_ifix.py
 
-      - name: Commit e Push do ifix_atual.json
+      - name: Commit e Push do ifix_historico.json
         run: |
           git config --global user.name 'GitHub Action Bot'
           git config --global user.email 'action@github.com'
-          git add ifix_atual.json
+          git add ifix_historico.json
           # Só faz o commit se houver alguma mudança no arquivo
           git diff --quiet && git diff --staged --quiet || (git commit -m "bot: atualização diária do IFIX" && git push)
