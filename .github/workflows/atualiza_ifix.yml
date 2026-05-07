@@ -5,6 +5,9 @@ on:
     # Roda de segunda a sexta às 21:30 UTC (18:30 Horário de Brasília)
     - cron: '30 21 * * 1-5'
   workflow_dispatch: # Permite rodar manualmente clicando no botão no GitHub
+  
+permissions:
+  contents: write
 
 jobs:
   scraping_ifix:
