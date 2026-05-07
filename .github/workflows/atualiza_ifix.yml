@@ -22,7 +22,7 @@ jobs:
       - name: Instalar Dependências
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4 pytz
+          pip install yfinance pytz
 
       - name: Rodar Script do IFIX
         run: python scraper_ifix.py
