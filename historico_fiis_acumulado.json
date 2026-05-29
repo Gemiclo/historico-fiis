@@ -3157,6 +3157,13 @@
         "valor": "8,20"
     },
     {
+        "ativo": "ELDO11B",
+        "tipo": "Dividendos",
+        "data_com": "27/05/26",
+        "data_pagamento": "05/06/26",
+        "valor": "0,80"
+    },
+    {
         "ativo": "EMBJ3",
         "tipo": "JCP",
         "data_com": "15/12/2025",
@@ -8649,6 +8656,13 @@
         "tipo": "Dividendos",
         "data_com": "06/05/26",
         "data_pagamento": "07/05/26",
+        "valor": "0,08"
+    },
+    {
+        "ativo": "SPG211",
+        "tipo": "Dividendos",
+        "data_com": "28/05/26",
+        "data_pagamento": "05/06/26",
         "valor": "0,08"
     },
     {
