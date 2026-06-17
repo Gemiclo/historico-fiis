@@ -364,6 +364,13 @@
         "valor": "0,13"
     },
     {
+        "ativo": "AFHF11",
+        "tipo": "Dividendos",
+        "data_com": "15/06/26",
+        "data_pagamento": "22/06/26",
+        "valor": "0,13"
+    },
+    {
         "ativo": "AFHI11",
         "tipo": "Dividendos",
         "data_com": "13/03/26",
@@ -382,6 +389,13 @@
         "tipo": "Dividendos",
         "data_com": "15/05/26",
         "data_pagamento": "22/05/26",
+        "valor": "1,03"
+    },
+    {
+        "ativo": "AFHI11",
+        "tipo": "Dividendos",
+        "data_com": "15/06/26",
+        "data_pagamento": "22/06/26",
         "valor": "1,03"
     },
     {
@@ -467,6 +481,13 @@
         "data_com": "08/05/26",
         "data_pagamento": "22/05/26",
         "valor": "0,05"
+    },
+    {
+        "ativo": "AJFI11",
+        "tipo": "Dividendos",
+        "data_com": "15/06/26",
+        "data_pagamento": "22/06/26",
+        "valor": "0,06"
     },
     {
         "ativo": "ALMI11",
@@ -571,6 +592,13 @@
         "tipo": "Dividendos",
         "data_com": "18/05/26",
         "data_pagamento": "25/05/26",
+        "valor": "0,10"
+    },
+    {
+        "ativo": "ALZC11",
+        "tipo": "Dividendos",
+        "data_com": "16/06/26",
+        "data_pagamento": "23/06/26",
         "valor": "0,10"
     },
     {
@@ -833,6 +861,13 @@
         "valor": "0,50"
     },
     {
+        "ativo": "AURB11",
+        "tipo": "Dividendos",
+        "data_com": "12/06/26",
+        "data_pagamento": "19/06/26",
+        "valor": "0,50"
+    },
+    {
         "ativo": "AVGO34",
         "tipo": "Dividendo",
         "data_com": "19/03/2026",
@@ -872,6 +907,13 @@
         "tipo": "Dividendos",
         "data_com": "15/05/26",
         "data_pagamento": "22/05/26",
+        "valor": "1,40"
+    },
+    {
+        "ativo": "AZIN11",
+        "tipo": "Dividendos",
+        "data_com": "15/06/26",
+        "data_pagamento": "22/06/26",
         "valor": "1,40"
     },
     {
@@ -1034,6 +1076,13 @@
         "data_com": "31/03/2026",
         "data_pagamento": "13/04/2026",
         "valor": "0.07434"
+    },
+    {
+        "ativo": "BACW39",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.295633"
     },
     {
         "ativo": "BAUH4",
@@ -1204,6 +1253,13 @@
         "valor": "3.433224"
     },
     {
+        "ativo": "BCHI39",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.230999"
+    },
+    {
         "ativo": "BCIA11",
         "tipo": "Dividendos",
         "data_com": "31/03/26",
@@ -1281,11 +1337,25 @@
         "valor": "0,85"
     },
     {
+        "ativo": "BDIF11",
+        "tipo": "Dividendos",
+        "data_com": "15/06/26",
+        "data_pagamento": "22/06/26",
+        "valor": "0,85"
+    },
+    {
         "ativo": "BDIV11",
         "tipo": "Dividendos",
         "data_com": "23/04/26",
         "data_pagamento": "30/04/26",
         "valor": "1,60"
+    },
+    {
+        "ativo": "BDVY39",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.416029"
     },
     {
         "ativo": "BEEF3",
@@ -1295,6 +1365,13 @@
         "valor": "0.031148"
     },
     {
+        "ativo": "BEEM39",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.280632"
+    },
+    {
         "ativo": "BEES3",
         "tipo": "JCP",
         "data_com": "02/03/2026",
@@ -1349,6 +1426,55 @@
         "data_com": "04/05/2026",
         "data_pagamento": "01/06/2026",
         "valor": "0.028777"
+    },
+    {
+        "ativo": "BEFA39",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.475254"
+    },
+    {
+        "ativo": "BEFG39",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.267916"
+    },
+    {
+        "ativo": "BEFV39",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.608763"
+    },
+    {
+        "ativo": "BEGD39",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.465801"
+    },
+    {
+        "ativo": "BEGE39",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.37218"
+    },
+    {
+        "ativo": "BEGU39",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.125412"
+    },
+    {
+        "ativo": "BEMV39",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.430684"
     },
     {
         "ativo": "BETW11",
@@ -1370,6 +1496,83 @@
         "data_com": "18/05/26",
         "data_pagamento": "25/05/26",
         "valor": "0,69"
+    },
+    {
+        "ativo": "BETW11",
+        "tipo": "Dividendos",
+        "data_com": "16/06/26",
+        "data_pagamento": "23/06/26",
+        "valor": "0,67"
+    },
+    {
+        "ativo": "BEWC39",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.338065"
+    },
+    {
+        "ativo": "BEWH39",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.385757"
+    },
+    {
+        "ativo": "BEWJ39",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.364"
+    },
+    {
+        "ativo": "BEWL39",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.655195"
+    },
+    {
+        "ativo": "BEWP39",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.565929"
+    },
+    {
+        "ativo": "BEWQ39",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.50661"
+    },
+    {
+        "ativo": "BEWU39",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.780686"
+    },
+    {
+        "ativo": "BEWW39",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.744995"
+    },
+    {
+        "ativo": "BEWZ39",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "1.051921"
+    },
+    {
+        "ativo": "BEZU39",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.528079"
     },
     {
         "ativo": "BFCG39",
@@ -1435,6 +1638,13 @@
         "valor": "1,20"
     },
     {
+        "ativo": "BGWH39",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.240367"
+    },
+    {
         "ativo": "BHYC39",
         "tipo": "Dividendo",
         "data_com": "31/03/2026",
@@ -1470,6 +1680,13 @@
         "valor": "0.166418"
     },
     {
+        "ativo": "BIBB39",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.02668"
+    },
+    {
         "ativo": "BICE11",
         "tipo": "Dividendos",
         "data_com": "31/03/26",
@@ -1498,6 +1715,13 @@
         "valor": "5,23"
     },
     {
+        "ativo": "BICL39",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.174267"
+    },
+    {
         "ativo": "BIDB11",
         "tipo": "Dividendos",
         "data_com": "31/03/26",
@@ -1517,6 +1741,13 @@
         "data_com": "29/05/26",
         "data_pagamento": "15/06/26",
         "valor": "1,00"
+    },
+    {
+        "ativo": "BIDV39",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.475254"
     },
     {
         "ativo": "BIEI39",
@@ -1540,6 +1771,27 @@
         "valor": "0.100296"
     },
     {
+        "ativo": "BIEM39",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.462617"
+    },
+    {
+        "ativo": "BIEU39",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.452355"
+    },
+    {
+        "ativo": "BIGF39",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.645036"
+    },
+    {
         "ativo": "BIGS39",
         "tipo": "Dividendo",
         "data_com": "31/03/2026",
@@ -1561,11 +1813,39 @@
         "valor": "0.135373"
     },
     {
+        "ativo": "BIHF39",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.018736"
+    },
+    {
+        "ativo": "BIJH39",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.052262"
+    },
+    {
+        "ativo": "BIJR39",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.193493"
+    },
+    {
         "ativo": "BILB34",
         "tipo": "Dividendo",
         "data_com": "07/04/2026",
         "data_pagamento": "04/05/2026",
         "valor": "2.874624"
+    },
+    {
+        "ativo": "BILF39",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.988552"
     },
     {
         "ativo": "BIME11",
@@ -1622,6 +1902,83 @@
         "data_com": "05/06/26",
         "data_pagamento": "15/06/26",
         "valor": "10,80"
+    },
+    {
+        "ativo": "BITO39",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.136277"
+    },
+    {
+        "ativo": "BIVB39",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.164286"
+    },
+    {
+        "ativo": "BIVE39",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.200724"
+    },
+    {
+        "ativo": "BIWF39",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.061367"
+    },
+    {
+        "ativo": "BIWM39",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.106076"
+    },
+    {
+        "ativo": "BIXJ39",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.247966"
+    },
+    {
+        "ativo": "BIXN39",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.024879"
+    },
+    {
+        "ativo": "BIXU39",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.744995"
+    },
+    {
+        "ativo": "BIYF39",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.093024"
+    },
+    {
+        "ativo": "BIYK39",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.102641"
+    },
+    {
+        "ativo": "BIYW39",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.008797"
     },
     {
         "ativo": "BKNG34",
@@ -1769,6 +2126,13 @@
         "data_com": "15/05/2026",
         "data_pagamento": "27/05/2026",
         "valor": "1.884502"
+    },
+    {
+        "ativo": "BMTU39",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.074563"
     },
     {
         "ativo": "BMYB34",
@@ -2170,6 +2534,13 @@
         "valor": "0.063422"
     },
     {
+        "ativo": "BSOX39",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.038103"
+    },
+    {
         "ativo": "BSRE39",
         "tipo": "Dividendo",
         "data_com": "06/04/2026",
@@ -2189,6 +2560,13 @@
         "data_com": "02/06/2026",
         "data_pagamento": "16/06/2026",
         "valor": "0.166707"
+    },
+    {
+        "ativo": "BSUS39",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.122783"
     },
     {
         "ativo": "BTAG11",
@@ -2345,6 +2723,13 @@
         "valor": "0,81"
     },
     {
+        "ativo": "BTLG11",
+        "tipo": "Dividendos",
+        "data_com": "15/06/26",
+        "data_pagamento": "25/06/26",
+        "valor": "0,81"
+    },
+    {
         "ativo": "BTLT39",
         "tipo": "Dividendo",
         "data_com": "31/03/2026",
@@ -2457,6 +2842,20 @@
         "valor": "0,09"
     },
     {
+        "ativo": "BTYU11",
+        "tipo": "Dividendos",
+        "data_com": "12/06/26",
+        "data_pagamento": "19/06/26",
+        "valor": "0,09"
+    },
+    {
+        "ativo": "BUTL39",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.247981"
+    },
+    {
         "ativo": "BVAR11",
         "tipo": "Dividendos",
         "data_com": "13/03/26",
@@ -2483,6 +2882,20 @@
         "data_com": "15/05/26",
         "data_pagamento": "25/05/26",
         "valor": "6,79"
+    },
+    {
+        "ativo": "BVAR11",
+        "tipo": "Dividendos",
+        "data_com": "25/05/26",
+        "data_pagamento": "15/05/26",
+        "valor": "5,50"
+    },
+    {
+        "ativo": "BVAR11",
+        "tipo": "Dividendos",
+        "data_com": "15/06/26",
+        "data_pagamento": "23/06/26",
+        "valor": "8,40"
     },
     {
         "ativo": "C1AG34",
@@ -2777,6 +3190,13 @@
         "data_com": "14/05/26",
         "data_pagamento": "21/05/26",
         "valor": "0,43"
+    },
+    {
+        "ativo": "CCVA11",
+        "tipo": "Dividendos",
+        "data_com": "12/06/26",
+        "data_pagamento": "19/06/26",
+        "valor": "0,50"
     },
     {
         "ativo": "CDII11",
@@ -3311,6 +3731,13 @@
         "valor": "0,11"
     },
     {
+        "ativo": "CPSH11",
+        "tipo": "Dividendos",
+        "data_com": "15/06/26",
+        "data_pagamento": "22/06/26",
+        "valor": "0,11"
+    },
+    {
         "ativo": "CPTI11",
         "tipo": "Dividendos",
         "data_com": "31/03/26",
@@ -3353,6 +3780,13 @@
         "valor": "0,11"
     },
     {
+        "ativo": "CPTR11",
+        "tipo": "Dividendos",
+        "data_com": "11/06/26",
+        "data_pagamento": "18/06/26",
+        "valor": "0,11"
+    },
+    {
         "ativo": "CPTS11",
         "tipo": "Dividendos",
         "data_com": "11/03/26",
@@ -3371,6 +3805,13 @@
         "tipo": "Dividendos",
         "data_com": "13/05/26",
         "data_pagamento": "20/05/26",
+        "valor": "0,09"
+    },
+    {
+        "ativo": "CPTS11",
+        "tipo": "Dividendos",
+        "data_com": "15/06/26",
+        "data_pagamento": "22/06/26",
         "valor": "0,09"
     },
     {
@@ -3864,6 +4305,13 @@
         "valor": "0,04"
     },
     {
+        "ativo": "DAYM11",
+        "tipo": "Dividendos",
+        "data_com": "15/06/26",
+        "data_pagamento": "22/06/26",
+        "valor": "0,04"
+    },
+    {
         "ativo": "DBAG34",
         "tipo": "Dividendo",
         "data_com": "27/05/2026",
@@ -4037,6 +4485,13 @@
         "data_com": "14/05/26",
         "data_pagamento": "21/05/26",
         "valor": "6,31"
+    },
+    {
+        "ativo": "DOVL11B",
+        "tipo": "Dividendos",
+        "data_com": "12/06/26",
+        "data_pagamento": "22/06/26",
+        "valor": "9,03"
     },
     {
         "ativo": "DPRO11",
@@ -4508,6 +4963,13 @@
         "valor": "0,20"
     },
     {
+        "ativo": "ELDO11B",
+        "tipo": "Dividendos",
+        "data_com": "15/06/26",
+        "data_pagamento": "23/06/26",
+        "valor": "8,00"
+    },
+    {
         "ativo": "EMBJ3",
         "tipo": "JCP",
         "data_com": "15/12/2025",
@@ -4597,6 +5059,34 @@
         "data_com": "18/05/2026",
         "data_pagamento": "23/06/2026",
         "valor": "0.21808"
+    },
+    {
+        "ativo": "EQPA3",
+        "tipo": "Dividendo",
+        "data_com": "29/04/2026",
+        "data_pagamento": "22/06/2026",
+        "valor": "0.134559"
+    },
+    {
+        "ativo": "EQPA5",
+        "tipo": "Dividendo",
+        "data_com": "29/04/2026",
+        "data_pagamento": "22/06/2026",
+        "valor": "0.134559"
+    },
+    {
+        "ativo": "EQPA6",
+        "tipo": "Dividendo",
+        "data_com": "29/04/2026",
+        "data_pagamento": "22/06/2026",
+        "valor": "0.134559"
+    },
+    {
+        "ativo": "EQPA7",
+        "tipo": "Dividendo",
+        "data_com": "29/04/2026",
+        "data_pagamento": "22/06/2026",
+        "valor": "0.134559"
     },
     {
         "ativo": "ERCR11",
@@ -5159,6 +5649,13 @@
         "valor": "1,44"
     },
     {
+        "ativo": "FLMA11",
+        "tipo": "Dividendos",
+        "data_com": "05/06/26",
+        "data_pagamento": "15/06/26",
+        "valor": "1,14"
+    },
+    {
         "ativo": "FLRP11",
         "tipo": "Dividendos",
         "data_com": "31/03/26",
@@ -5478,6 +5975,13 @@
         "tipo": "Dividendos",
         "data_com": "14/05/26",
         "data_pagamento": "21/05/26",
+        "valor": "0,85"
+    },
+    {
+        "ativo": "GCRI11",
+        "tipo": "Dividendos",
+        "data_com": "12/06/26",
+        "data_pagamento": "19/06/26",
         "valor": "0,85"
     },
     {
@@ -5922,6 +6426,13 @@
         "valor": "0,53"
     },
     {
+        "ativo": "HBCR11",
+        "tipo": "Dividendos",
+        "data_com": "15/06/26",
+        "data_pagamento": "22/06/26",
+        "valor": "0,55"
+    },
+    {
         "ativo": "HBOR3",
         "tipo": "Dividendo",
         "data_com": "05/01/2026",
@@ -5990,6 +6501,13 @@
         "data_com": "13/05/26",
         "data_pagamento": "20/05/26",
         "valor": "2,49"
+    },
+    {
+        "ativo": "HCRI11",
+        "tipo": "Dividendos",
+        "data_com": "12/06/26",
+        "data_pagamento": "19/06/26",
+        "valor": "2,53"
     },
     {
         "ativo": "HCTR11",
@@ -6874,6 +7392,13 @@
         "valor": "0,10"
     },
     {
+        "ativo": "IMOV11",
+        "tipo": "Dividendos",
+        "data_com": "18/06/26",
+        "data_pagamento": "19/06/26",
+        "valor": "0,10"
+    },
+    {
         "ativo": "INFB11",
         "tipo": "Amortização",
         "data_com": "02/03/26",
@@ -7026,6 +7551,13 @@
         "data_com": "12/05/26",
         "data_pagamento": "19/05/26",
         "valor": "0,90"
+    },
+    {
+        "ativo": "IRIM11",
+        "tipo": "Dividendos",
+        "data_com": "10/06/26",
+        "data_pagamento": "17/06/26",
+        "valor": "0,95"
     },
     {
         "ativo": "ISAE3",
@@ -7280,6 +7812,13 @@
         "valor": "0,72"
     },
     {
+        "ativo": "JASC11",
+        "tipo": "Dividendos",
+        "data_com": "15/06/26",
+        "data_pagamento": "22/06/26",
+        "valor": "0,72"
+    },
+    {
         "ativo": "JBSS32",
         "tipo": "Dividendo",
         "data_com": "18/05/2026",
@@ -7308,6 +7847,13 @@
         "valor": "1,77"
     },
     {
+        "ativo": "JCCJ11",
+        "tipo": "Dividendos",
+        "data_com": "12/06/26",
+        "data_pagamento": "19/06/26",
+        "valor": "1,77"
+    },
+    {
         "ativo": "JCIN11",
         "tipo": "Dividendos",
         "data_com": "14/04/26",
@@ -7320,6 +7866,13 @@
         "data_com": "14/05/26",
         "data_pagamento": "21/05/26",
         "valor": "7,34"
+    },
+    {
+        "ativo": "JCIN11",
+        "tipo": "Dividendos",
+        "data_com": "12/06/26",
+        "data_pagamento": "19/06/26",
+        "valor": "7,08"
     },
     {
         "ativo": "JDCO34",
@@ -7763,6 +8316,13 @@
         "valor": "0,07"
     },
     {
+        "ativo": "KISU11",
+        "tipo": "Dividendos",
+        "data_com": "15/06/26",
+        "data_pagamento": "25/06/26",
+        "valor": "0,07"
+    },
+    {
         "ativo": "KIVO11",
         "tipo": "Dividendos",
         "data_com": "31/03/26",
@@ -8048,6 +8608,13 @@
         "data_com": "15/05/26",
         "data_pagamento": "22/05/26",
         "valor": "122,00"
+    },
+    {
+        "ativo": "KOPA11",
+        "tipo": "Dividendos",
+        "data_com": "15/06/26",
+        "data_pagamento": "22/06/26",
+        "valor": "10,00"
     },
     {
         "ativo": "KORE11",
@@ -8694,6 +9261,13 @@
         "valor": "0,11"
     },
     {
+        "ativo": "MCRE11",
+        "tipo": "Dividendos",
+        "data_com": "16/06/26",
+        "data_pagamento": "23/06/26",
+        "valor": "0,11"
+    },
+    {
         "ativo": "MDIA3",
         "tipo": "Dividendo",
         "data_com": "22/04/2026",
@@ -9079,6 +9653,13 @@
         "valor": "1,10"
     },
     {
+        "ativo": "NAVT11",
+        "tipo": "Dividendos",
+        "data_com": "12/06/26",
+        "data_pagamento": "19/06/26",
+        "valor": "1,10"
+    },
+    {
         "ativo": "NCRI11",
         "tipo": "Dividendos",
         "data_com": "05/03/26",
@@ -9357,6 +9938,13 @@
         "data_com": "13/03/2026",
         "data_pagamento": "07/04/2026",
         "valor": "0.096952"
+    },
+    {
+        "ativo": "O2LE34",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.093024"
     },
     {
         "ativo": "OCRE11",
@@ -9707,6 +10295,13 @@
         "data_com": "17/04/2026",
         "data_pagamento": "08/06/2026",
         "valor": "0.26401"
+    },
+    {
+        "ativo": "PASS3",
+        "tipo": "Dividendo",
+        "data_com": "04/05/2026",
+        "data_pagamento": "29/06/2026",
+        "valor": "0.567837"
     },
     {
         "ativo": "PATA11",
@@ -10752,6 +11347,13 @@
         "valor": "0,09"
     },
     {
+        "ativo": "RBRX11",
+        "tipo": "Dividendos",
+        "data_com": "15/06/26",
+        "data_pagamento": "23/06/26",
+        "valor": "0,09"
+    },
+    {
         "ativo": "RBRY11",
         "tipo": "Dividendos",
         "data_com": "10/03/26",
@@ -10770,6 +11372,13 @@
         "tipo": "Dividendos",
         "data_com": "12/05/26",
         "data_pagamento": "19/05/26",
+        "valor": "1,00"
+    },
+    {
+        "ativo": "RBRY11",
+        "tipo": "Dividendos",
+        "data_com": "10/06/26",
+        "data_pagamento": "17/06/26",
         "valor": "1,00"
     },
     {
@@ -10833,6 +11442,13 @@
         "tipo": "Dividendos",
         "data_com": "14/05/26",
         "data_pagamento": "21/05/26",
+        "valor": "1,15"
+    },
+    {
+        "ativo": "RCRI11",
+        "tipo": "Dividendos",
+        "data_com": "12/06/26",
+        "data_pagamento": "19/06/26",
         "valor": "1,15"
     },
     {
@@ -11011,6 +11627,13 @@
         "valor": "0,80"
     },
     {
+        "ativo": "RELG11",
+        "tipo": "Dividendos",
+        "data_com": "08/06/26",
+        "data_pagamento": "15/06/26",
+        "valor": "0,80"
+    },
+    {
         "ativo": "REME11",
         "tipo": "Amortização",
         "data_com": "14/05/26",
@@ -11127,6 +11750,13 @@
         "tipo": "Dividendos",
         "data_com": "14/05/26",
         "data_pagamento": "21/05/26",
+        "valor": "1,10"
+    },
+    {
+        "ativo": "RINV11",
+        "tipo": "Dividendos",
+        "data_com": "12/06/26",
+        "data_pagamento": "19/06/26",
         "valor": "1,10"
     },
     {
@@ -11354,6 +11984,13 @@
         "valor": "1,10"
     },
     {
+        "ativo": "RZAK11",
+        "tipo": "Dividendos",
+        "data_com": "15/06/26",
+        "data_pagamento": "22/06/26",
+        "valor": "1,05"
+    },
+    {
         "ativo": "RZAT11",
         "tipo": "Dividendos",
         "data_com": "13/03/26",
@@ -11375,11 +12012,25 @@
         "valor": "1,70"
     },
     {
+        "ativo": "RZAT11",
+        "tipo": "Dividendos",
+        "data_com": "15/06/26",
+        "data_pagamento": "22/06/26",
+        "valor": "1,70"
+    },
+    {
         "ativo": "RZEO11",
         "tipo": "Dividendos",
         "data_com": "15/05/26",
         "data_pagamento": "22/05/26",
         "valor": "4,76"
+    },
+    {
+        "ativo": "RZEO11",
+        "tipo": "Dividendos",
+        "data_com": "15/06/26",
+        "data_pagamento": "22/06/26",
+        "valor": "8,00"
     },
     {
         "ativo": "RZLC11",
@@ -11452,6 +12103,13 @@
         "valor": "6,80"
     },
     {
+        "ativo": "RZZI11",
+        "tipo": "Dividendos",
+        "data_com": "12/06/26",
+        "data_pagamento": "19/06/26",
+        "valor": "6,80"
+    },
+    {
         "ativo": "RZZR11",
         "tipo": "Dividendos",
         "data_com": "13/03/26",
@@ -11470,6 +12128,13 @@
         "tipo": "Dividendos",
         "data_com": "13/05/26",
         "data_pagamento": "20/05/26",
+        "valor": "1,23"
+    },
+    {
+        "ativo": "RZZR11",
+        "tipo": "Dividendos",
+        "data_com": "12/06/26",
+        "data_pagamento": "19/06/26",
         "valor": "1,23"
     },
     {
@@ -11645,6 +12310,13 @@
         "tipo": "Dividendos",
         "data_com": "15/05/26",
         "data_pagamento": "22/05/26",
+        "valor": "0,90"
+    },
+    {
+        "ativo": "SALI11",
+        "tipo": "Dividendos",
+        "data_com": "15/06/26",
+        "data_pagamento": "22/06/26",
         "valor": "0,90"
     },
     {
@@ -11970,6 +12642,13 @@
         "valor": "0,12"
     },
     {
+        "ativo": "SNAG11",
+        "tipo": "Dividendos",
+        "data_com": "15/06/26",
+        "data_pagamento": "25/06/26",
+        "valor": "0,12"
+    },
+    {
         "ativo": "SNCI11",
         "tipo": "Dividendos",
         "data_com": "13/03/26",
@@ -11988,6 +12667,13 @@
         "tipo": "Dividendos",
         "data_com": "15/05/26",
         "data_pagamento": "25/05/26",
+        "valor": "1,00"
+    },
+    {
+        "ativo": "SNCI11",
+        "tipo": "Dividendos",
+        "data_com": "15/06/26",
+        "data_pagamento": "25/06/26",
         "valor": "1,00"
     },
     {
@@ -12019,6 +12705,13 @@
         "valor": "0,10"
     },
     {
+        "ativo": "SNEL11",
+        "tipo": "Dividendos",
+        "data_com": "15/06/26",
+        "data_pagamento": "25/06/26",
+        "valor": "0,10"
+    },
+    {
         "ativo": "SNFF11",
         "tipo": "Dividendos",
         "data_com": "13/03/26",
@@ -12040,6 +12733,13 @@
         "valor": "0,72"
     },
     {
+        "ativo": "SNFF11",
+        "tipo": "Dividendos",
+        "data_com": "15/06/26",
+        "data_pagamento": "25/06/26",
+        "valor": "0,72"
+    },
+    {
         "ativo": "SNFZ11",
         "tipo": "Dividendos",
         "data_com": "13/03/26",
@@ -12058,6 +12758,13 @@
         "tipo": "Dividendos",
         "data_com": "15/05/26",
         "data_pagamento": "25/05/26",
+        "valor": "0,10"
+    },
+    {
+        "ativo": "SNFZ11",
+        "tipo": "Dividendos",
+        "data_com": "15/06/26",
+        "data_pagamento": "25/06/26",
         "valor": "0,10"
     },
     {
@@ -12082,6 +12789,13 @@
         "valor": "0,12"
     },
     {
+        "ativo": "SNID11",
+        "tipo": "Dividendos",
+        "data_com": "15/06/26",
+        "data_pagamento": "25/06/26",
+        "valor": "0,12"
+    },
+    {
         "ativo": "SNME11",
         "tipo": "Dividendos",
         "data_com": "13/03/26",
@@ -12101,6 +12815,13 @@
         "data_com": "15/05/26",
         "data_pagamento": "25/05/26",
         "valor": "0,10"
+    },
+    {
+        "ativo": "SNME11",
+        "tipo": "Dividendos",
+        "data_com": "15/06/26",
+        "data_pagamento": "25/06/26",
+        "valor": "0,15"
     },
     {
         "ativo": "SOND3",
@@ -12691,6 +13412,13 @@
         "valor": "0,84"
     },
     {
+        "ativo": "TOPP11",
+        "tipo": "Dividendos",
+        "data_com": "12/06/26",
+        "data_pagamento": "19/06/26",
+        "valor": "0,84"
+    },
+    {
         "ativo": "TORD11",
         "tipo": "Dividendos",
         "data_com": "06/03/26",
@@ -12948,6 +13676,13 @@
         "data_com": "15/05/2026",
         "data_pagamento": "26/06/2026",
         "valor": "0.5399"
+    },
+    {
+        "ativo": "UNHH34",
+        "tipo": "Dividendo",
+        "data_com": "11/06/2026",
+        "data_pagamento": "29/06/2026",
+        "valor": "0.113023"
     },
     {
         "ativo": "UPAC34",
@@ -13234,6 +13969,13 @@
         "tipo": "Dividendos",
         "data_com": "13/05/26",
         "data_pagamento": "20/05/26",
+        "valor": "0,13"
+    },
+    {
+        "ativo": "VGIA11",
+        "tipo": "Dividendos",
+        "data_com": "11/06/26",
+        "data_pagamento": "18/06/26",
         "valor": "0,13"
     },
     {
@@ -14082,6 +14824,13 @@
         "data_com": "15/05/26",
         "data_pagamento": "22/05/26",
         "valor": "0,41"
+    },
+    {
+        "ativo": "WTSP11",
+        "tipo": "Dividendos",
+        "data_com": "15/06/26",
+        "data_pagamento": "22/06/26",
+        "valor": "0,60"
     },
     {
         "ativo": "WTSP11B",
