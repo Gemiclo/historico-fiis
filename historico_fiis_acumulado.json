@@ -1589,6 +1589,13 @@
         "valor": "0.338065"
     },
     {
+        "ativo": "BEWG39",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.963109"
+    },
+    {
         "ativo": "BEWH39",
         "tipo": "Dividendo",
         "data_com": "12/06/2026",
@@ -1699,6 +1706,13 @@
         "data_com": "25/03/2026",
         "data_pagamento": "07/04/2026",
         "valor": "0.043234"
+    },
+    {
+        "ativo": "BFXI39",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.183064"
     },
     {
         "ativo": "BGIP3",
@@ -2105,6 +2119,20 @@
         "data_com": "12/06/2026",
         "data_pagamento": "24/06/2026",
         "valor": "0.093024"
+    },
+    {
+        "ativo": "BIYG39",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.039775"
+    },
+    {
+        "ativo": "BIYJ39",
+        "tipo": "Dividendo",
+        "data_com": "12/06/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.074606"
     },
     {
         "ativo": "BIYK39",
@@ -5283,6 +5311,13 @@
         "data_com": "08/06/26",
         "data_pagamento": "15/06/26",
         "valor": "0,10"
+    },
+    {
+        "ativo": "ENDD11",
+        "tipo": "Amortização",
+        "data_com": "23/06/26",
+        "data_pagamento": "30/06/26",
+        "valor": "6,10"
     },
     {
         "ativo": "ENMT3",
@@ -10129,6 +10164,13 @@
         "valor": "0.140479"
     },
     {
+        "ativo": "NMRH34",
+        "tipo": "Dividendo",
+        "data_com": "27/03/2026",
+        "data_pagamento": "24/06/2026",
+        "valor": "0.736479"
+    },
+    {
         "ativo": "NOCG34",
         "tipo": "Dividendo",
         "data_com": "28/05/2026",
@@ -12976,6 +13018,13 @@
         "data_com": "29/05/26",
         "data_pagamento": "10/06/26",
         "valor": "1,01"
+    },
+    {
+        "ativo": "SMRE11",
+        "tipo": "Dividendos",
+        "data_com": "30/06/26",
+        "data_pagamento": "10/07/26",
+        "valor": "1,00"
     },
     {
         "ativo": "SNAG11",
