@@ -13979,6 +13979,13 @@
         "valor": "7,26"
     },
     {
+        "ativo": "PBLV11",
+        "tipo": "Dividendos",
+        "data_com": "22/07/26",
+        "data_pagamento": "29/07/26",
+        "valor": "48,99"
+    },
+    {
         "ativo": "PCAS11",
         "tipo": "Dividendos",
         "data_com": "16/04/26",
@@ -20074,6 +20081,13 @@
         "data_com": "18/06/26",
         "data_pagamento": "25/06/26",
         "valor": "0,85"
+    },
+    {
+        "ativo": "XPIN11",
+        "tipo": "Amortização",
+        "data_com": "21/07/26",
+        "data_pagamento": "28/07/26",
+        "valor": "2,52"
     },
     {
         "ativo": "XPLG11",
