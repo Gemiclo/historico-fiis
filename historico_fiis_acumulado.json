@@ -14,6 +14,13 @@
         "valor": "0.052926"
     },
     {
+        "ativo": "A1AP34",
+        "tipo": "Dividendo",
+        "data_com": "07/10/2026",
+        "data_pagamento": "29/10/2026",
+        "valor": "0.054812"
+    },
+    {
         "ativo": "A1CR34",
         "tipo": "Dividendo",
         "data_com": "26/05/2026",
@@ -6783,6 +6790,13 @@
         "valor": "0.976036"
     },
     {
+        "ativo": "C2CA34",
+        "tipo": "Dividendo",
+        "data_com": "07/10/2026",
+        "data_pagamento": "29/10/2026",
+        "valor": "0.984141"
+    },
+    {
         "ativo": "C2EM34",
         "tipo": "Dividendo",
         "data_com": "15/06/2026",
@@ -9679,6 +9693,13 @@
         "data_com": "11/09/26",
         "data_pagamento": "21/09/26",
         "valor": "6,57"
+    },
+    {
+        "ativo": "DOVL11B",
+        "tipo": "Dividendos",
+        "data_com": "09/10/26",
+        "data_pagamento": "21/10/26",
+        "valor": "6,98"
     },
     {
         "ativo": "DPRO11",
@@ -12768,6 +12789,13 @@
         "valor": "0,10"
     },
     {
+        "ativo": "GAME11",
+        "tipo": "Dividendos",
+        "data_com": "09/10/26",
+        "data_pagamento": "22/10/26",
+        "valor": "0,10"
+    },
+    {
         "ativo": "GARE11",
         "tipo": "Dividendos",
         "data_com": "31/03/26",
@@ -15792,6 +15820,13 @@
         "valor": "0,59"
     },
     {
+        "ativo": "IBCR11",
+        "tipo": "Dividendos",
+        "data_com": "09/10/26",
+        "data_pagamento": "19/10/26",
+        "valor": "0,59"
+    },
+    {
         "ativo": "IBMB34",
         "tipo": "Dividendo",
         "data_com": "07/05/2026",
@@ -16461,6 +16496,13 @@
         "tipo": "Dividendos",
         "data_com": "10/09/26",
         "data_pagamento": "17/09/26",
+        "valor": "0,75"
+    },
+    {
+        "ativo": "IRIM11",
+        "tipo": "Dividendos",
+        "data_com": "09/10/26",
+        "data_pagamento": "19/10/26",
         "valor": "0,75"
     },
     {
@@ -19733,6 +19775,13 @@
         "valor": "0.422876"
     },
     {
+        "ativo": "M1KC34",
+        "tipo": "Dividendo",
+        "data_com": "08/10/2026",
+        "data_pagamento": "30/10/2026",
+        "valor": "0.422005"
+    },
+    {
         "ativo": "M1KT34",
         "tipo": "Dividendo",
         "data_com": "18/05/2026",
@@ -22034,6 +22083,13 @@
         "data_com": "09/07/2026",
         "data_pagamento": "31/07/2026",
         "valor": "0.285763"
+    },
+    {
+        "ativo": "ORCL34",
+        "tipo": "Dividendo",
+        "data_com": "08/10/2026",
+        "data_pagamento": "30/10/2026",
+        "valor": "0.282374"
     },
     {
         "ativo": "OUJP11",
@@ -24801,6 +24857,13 @@
         "valor": "0,90"
     },
     {
+        "ativo": "RBRR11",
+        "tipo": "Dividendos",
+        "data_com": "09/10/26",
+        "data_pagamento": "19/10/26",
+        "valor": "0,73"
+    },
+    {
         "ativo": "RBRS11",
         "tipo": "Dividendos",
         "data_com": "31/03/26",
@@ -24945,6 +25008,13 @@
         "tipo": "Dividendos",
         "data_com": "10/09/26",
         "data_pagamento": "17/09/26",
+        "valor": "1,00"
+    },
+    {
+        "ativo": "RBRY11",
+        "tipo": "Dividendos",
+        "data_com": "09/10/26",
+        "data_pagamento": "19/10/26",
         "valor": "1,00"
     },
     {
@@ -25527,6 +25597,13 @@
         "data_com": "30/09/26",
         "data_pagamento": "15/10/26",
         "valor": "1,00"
+    },
+    {
+        "ativo": "REME11",
+        "tipo": "Amortização",
+        "data_com": "13/10/26",
+        "data_pagamento": "30/10/26",
+        "valor": "15,27"
     },
     {
         "ativo": "RENT3",
@@ -28238,6 +28315,13 @@
         "valor": "0,10"
     },
     {
+        "ativo": "SPXT11",
+        "tipo": "Dividendos",
+        "data_com": "07/10/26",
+        "data_pagamento": "15/10/26",
+        "valor": "0,88"
+    },
+    {
         "ativo": "SSFO34",
         "tipo": "Dividendo",
         "data_com": "07/04/2026",
@@ -30919,6 +31003,13 @@
         "valor": "8,20"
     },
     {
+        "ativo": "VIOL11",
+        "tipo": "Dividendos",
+        "data_com": "09/10/26",
+        "data_pagamento": "19/10/26",
+        "valor": "0,63"
+    },
+    {
         "ativo": "VISA34",
         "tipo": "Dividendo",
         "data_com": "11/05/2026",
@@ -31560,6 +31651,13 @@
         "tipo": "Dividendos",
         "data_com": "10/09/26",
         "data_pagamento": "17/09/26",
+        "valor": "0,50"
+    },
+    {
+        "ativo": "VTPL11",
+        "tipo": "Dividendos",
+        "data_com": "09/10/26",
+        "data_pagamento": "19/10/26",
         "valor": "0,50"
     },
     {
